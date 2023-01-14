@@ -1,7 +1,7 @@
 # connect4
 
 
-Demo of the game https://sofianlap2.github.io/blackjack/
+Demo of the game https://sofianlap2.github.io/connect4/
 
 
 
